@@ -7,4 +7,6 @@ Repositorio con los programas que voy haciendo en mi tiempo libre
 * C
 * Python
 * Shell Script
+* Java
+* PHP
 * ...
