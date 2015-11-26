@@ -1,6 +1,6 @@
 #Downloader, Pelicula, deco
 
-#Descripcción
+#Descripción
 -------------
 
 Recupera todas las películas de la web FilmAffinity y las va guardanando en Objetos Película.
