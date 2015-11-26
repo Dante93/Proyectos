@@ -4,8 +4,18 @@ Imagínate el siguiente escenario. Tienes 11 años y en los últimos 5 minutos del 
 
 Las matemáticas no es tu fuerte y tienes miedo de que te llegue el turno y no sepas qué decir. Así que, con el fin de evitar la vergüenza delante de toda la clase, tienes que obtener la lista completa impresa para saber qué decir. Tu clase tiene unos 33 alumnos y se pueden llegar a hacer unas tres rondas antes de que suene el timbre para el recreo. La siguiente clase de matemáticas es el jueves. ¡Codifícalo! :)
 #Enunciado
-----------
+
 * Escribe un programa que imprima los números del 1 al 100, pero aplicando las siguientes normas:
 * Devuelve Fizz si el número es divisible por 3.
 * Devuelve Buzz si el número es divisible por 5.
 * Devuelve FizzBuzz si el número es divisible por 3 y por 5.
+
+#Olimpiada Rusa
+---------------
+En una olimpiada rusa se propuso el siguiente problema: Si escribimos todos los números enteros empezando por el uno, uno al lado del otro (o sea, 1234567891011121314…), ¿qué dígito ocupa la posición 206788?
+
+Definir una función que dado n calcule el elemento que ocupa la posición n en dicha sucesión. Por ejemplo,
+* elemento 5      = 5
+* elemento 10     = 1
+* elemento 11     = 0
+* elemento 206788 = 7
