@@ -19,3 +19,20 @@ Definir una función que dado n calcule el elemento que ocupa la posición n en di
 * elemento 10     = 1
 * elemento 11     = 0
 * elemento 206788 = 7
+
+#Cuenta Palabras
+----------------
+
+Analizador de documentos
+
+#PigLatin
+---------
+El pig latin es un juego con el idioma inglés.
+
+Buenos días en pig latin se dice oodgay orningmay. El pig latin lo usan los niños para divertirse o para conversar secretamente sobre adultos u otros niños. Recíprocamente, los adultos a veces lo usan para hablar de temas sensibles que quieren que los niños no entiendan. Los turistas anglohablantes a veces usan el pig latin para disimular sus conversaciones cuando viajan por países donde el inglés es el segundo idioma.
+
+#Descripción
+* La traducción se hace palabra a palabra.
+* Si una palabra no comienza con una letra se deja igual.
+* Para las palabras que comienzan con consonantes, se mueven todas las consonantes antes de la primera vocal al final y se agrega la sílaba "ay".
+* Para palabras que comienzan con vocal (incluyendo la y), simplemente se agrega "yay" al final de la palabra.
