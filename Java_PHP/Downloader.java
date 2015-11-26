@@ -95,7 +95,7 @@ public class Downloader {
 				res+= getURLS(TAM_CARACTERS,dirCar,fin);
 				break;
 				
-			/*case "0-9":
+			case "0-9":
 				res+= getURLS(TAM_09,dir09,fin);
 				break;	
 				
@@ -202,7 +202,7 @@ public class Downloader {
 			case "Z":
 				res+= getURLS(TAM_Z,dirZ,fin);
 				break;
-				*/
+				
 			}
 		
 		String [] informacio = res.split("\n");
@@ -295,7 +295,7 @@ public class Downloader {
 		if(!genere.equalsIgnoreCase(""))
 			genere = genere.substring(0,1).toUpperCase() + genere.substring(1,genere.length());
 		
-		if(genere.equalsIgnoreCase("cienciaficcion")) genere = "Ciencia Ficción";
+		if(genere.equalsIgnoreCase("cienciaficcion")) genere = "Ciencia FicciÃ³n";
 		else if(genere.equalsIgnoreCase("cinenegro")) genere = "Cine Negro";
 		
 		String [] movieInfo = {nombre,genere,duracion,director};
