@@ -6,9 +6,9 @@
 Recupera todas las películas de la web FilmAffinity y las va guardanando en Objetos Película.
 En dicho objeto tenemos la siguiente información:
 * Título
-* Genero
+* Género
 * Director
-* Duracíon
+* Duración
 
 una vez se tiene toda la información de las películas, se almacenan en formato JSON. Después el programa deco.php que esta alojado en un servidor, recoje toda esta información y la inserta en una base de datos
 
