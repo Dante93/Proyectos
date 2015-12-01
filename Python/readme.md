@@ -43,10 +43,14 @@ Buenos días en pig latin se dice oodgay orningmay. El pig latin lo usan los ni�
 
 Una fracción egipcia es una forma de representar un núero racional como una suma de fracciones unitarias (aquellas donde el numerador es igual a 1). Por ejemplo:
 
+```
 5/6 = 1/2 + 1/3
+```
 
 El  matemático  Fibonacci  propuso  un  algoritmo  voraz  para  obtener  esta  expresión  para  cualquier número racional extrayendo la fracción unitaria de mayor valor y aplicando la misma idea al resto:
 
+```
 x/y = 1/(y/x) + (-y)mod(x)/y(y/x)
+```
 
 Se pide implementar la siguiente función python que recibe como argumentos el numerador y denominador de un número racional y devuelve una lista de los denominadores de las fracciones unitaria
