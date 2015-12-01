@@ -36,7 +36,8 @@ Buenos días en pig latin se dice oodgay orningmay. El pig latin lo usan los ni�
 * Si una palabra no comienza con una letra se deja igual.
 * Para las palabras que comienzan con consonantes, se mueven todas las consonantes antes de la primera vocal al final y se agrega la sílaba "ay".
 * Para palabras que comienzan con vocal (incluyendo la y), simplemente se agrega "yay" al final de la palabra.
-* 
+
+
 #Función Egipcia
 ---------------
 
